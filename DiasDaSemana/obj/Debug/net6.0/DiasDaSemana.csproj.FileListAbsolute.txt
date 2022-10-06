@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\bin\Debug\net6.0\DiasDaSemana.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\bin\Debug\net6.0\DiasDaSemana.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\bin\Debug\net6.0\DiasDaSemana.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\bin\Debug\net6.0\DiasDaSemana.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\bin\Debug\net6.0\DiasDaSemana.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\refint\DiasDaSemana.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\DiasDaSemana.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\DiasDaSemana\obj\Debug\net6.0\ref\DiasDaSemana.dll

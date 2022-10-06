@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\bin\Debug\net6.0\ContaOperadora.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\bin\Debug\net6.0\ContaOperadora.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\bin\Debug\net6.0\ContaOperadora.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\bin\Debug\net6.0\ContaOperadora.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\bin\Debug\net6.0\ContaOperadora.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\refint\ContaOperadora.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ContaOperadora.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\ContaOperadora\obj\Debug\net6.0\ref\ContaOperadora.dll

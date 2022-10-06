@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\bin\Debug\net6.0\TestesEstruturaRepeticao.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\bin\Debug\net6.0\TestesEstruturaRepeticao.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\bin\Debug\net6.0\TestesEstruturaRepeticao.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\bin\Debug\net6.0\TestesEstruturaRepeticao.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\bin\Debug\net6.0\TestesEstruturaRepeticao.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\refint\TestesEstruturaRepeticao.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\TestesEstruturaRepeticao.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\TestesEstruturaRepeticao\obj\Debug\net6.0\ref\TestesEstruturaRepeticao.dll

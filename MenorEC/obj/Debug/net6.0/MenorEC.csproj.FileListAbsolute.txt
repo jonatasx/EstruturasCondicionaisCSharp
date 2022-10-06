@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\bin\Debug\net6.0\MenorEC.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\bin\Debug\net6.0\MenorEC.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\bin\Debug\net6.0\MenorEC.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\bin\Debug\net6.0\MenorEC.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\bin\Debug\net6.0\MenorEC.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\refint\MenorEC.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\MenorEC.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\TestesEstruturaRepeticao\MenorEC\obj\Debug\net6.0\ref\MenorEC.dll
